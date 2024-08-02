@@ -13,20 +13,20 @@
 // Configure the below variables to allow the script to work correctly and connect to both your WHMCS install and Telegram bot.
 
 // Your Telegram Bot Token
-$GLOBALS['telegramBotToken'] = "YOUR_BOT_TOKEN_HERE";
+$GLOBALS['telegramBotToken'] = "7226815209:AAEdUXIKRawEWDTL9P4gxktycU_qVpDtAMo";
 
 // Your Telegram Chat ID
-$GLOBALS['telegramChatID'] = "YOUR_CHAT_ID_HERE";
+$GLOBALS['telegramChatID'] = "-4284583641";
 
 // Your WHMCS Admin URL.
-$GLOBALS['whmcsAdminURL'] = "https://WHMCS_ADMIN_URL_HERE.com/admin/";
+$GLOBALS['whmcsAdminURL'] = "https://dashboard.buatsitus.id/zul";
 // Note: Please include the end / on your URL. An example of an accepted link would be: https://account.whmcs.com/admin/
 
 // Your Company Name.
-$GLOBALS['companyName'] = "YOUR_COMPANY_NAME_HERE";
+$GLOBALS['companyName'] = "Buatistus.id";
 
 // Sensitive Information Display
-$GLOBALS['sensitiveInformation'] = false; // false/true
+$GLOBALS['sensitiveInformation'] = true; // false/true
 // Note: Disabled by default; if enabled, customer emails will be included in some notifications.
 // WARNING: Sharing/storing personally identifiable information on Telegram will require the update of your privacy policy (if applicable) to allow you to remain in compliance with GDPR.
 
